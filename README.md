@@ -1,0 +1,2 @@
+# LintyLinterson
+Wrapper around SwiftLint
